@@ -1,0 +1,131 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "password": "12345",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "password": "12345",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "79d7",
+      "email": "lissharik@gmail.com",
+      "password": "Toriyama*1",
+      "nameCompany": "MonsterCoffe",
+      "imageCompany": "https://img.freepik.com/vector-gratis/logotipo-coffee-monster_197582-190.jpg",
+      "nit": 1707740478125
+    },
+    {
+      "id": "d4b2",
+      "email": "test@riwi.io",
+      "password": "Toriyama*1",
+      "nameCompany": "Otro coffe",
+      "imageCompany": "https://img.freepik.com/vector-gratis/logotipo-coffee-monster_197582-190.jpg",
+      "nit": 1707740541622
+    },
+    {
+      "id": "6743",
+      "email": "cece@bude.com",
+      "password": "Toriyama*1",
+      "nameCompany": "vdvff",
+      "imageCompany": "https://img.freepik.com/vector-gratis/plantilla-logotipo-barbacoa-creativa_23-2149017951.jpg",
+      "nit": 1707740632750
+    },
+    {
+      "id": "8b24",
+      "email": "restaurante@gmail.com",
+      "password": "Toriyama*1",
+      "nameCompany": "BBQ",
+      "imageCompany": "https://img.freepik.com/vector-gratis/plantilla-logotipo-barbacoa-creativa_23-2149017951.jpg",
+      "nit": 1707751129888
+    }
+  ],
+  "jobs": [
+    {
+      "id": "61d6",
+      "title": "Nuevo empleo",
+      "description": "Trabajar en algo",
+      "publicationDate": "2024-02-12",
+      "location": "Medellin",
+      "experience": "6",
+      "modality": "Remote",
+      "salary": "50505050",
+      "companyId": "79d7"
+    },
+    {
+      "id": "c899",
+      "title": "dcs",
+      "description": " dsds",
+      "publicationDate": "2024-02-12",
+      "location": " ds",
+      "experience": "54",
+      "modality": "In person",
+      "salary": "553",
+      "companyId": "8b24"
+    },
+    {
+      "id": "6756",
+      "title": "vnkslfv",
+      "description": "v dkslvfdk",
+      "publicationDate": "2024-02-12",
+      "location": "cdscs",
+      "experience": "7",
+      "modality": "In person",
+      "salary": "835",
+      "companyId": "8b24"
+    },
+    {
+      "id": "ac3d",
+      "title": " klfv fd",
+      "description": "vf dvfd",
+      "publicationDate": "2024-02-12",
+      "location": "v dflkvdf",
+      "experience": "5",
+      "modality": "Remote",
+      "salary": "100000",
+      "companyId": "79d7"
+    },
+    {
+      "id": "ce3f",
+      "title": "Desarrollador",
+      "description": "pos hacer cosas de programador",
+      "publicationDate": "2024-02-12",
+      "location": "Medellin",
+      "experience": "2",
+      "modality": "Remote",
+      "salary": "10000",
+      "companyId": "79d7"
+    },
+    {
+      "id": "4426",
+      "title": "Desarrollador",
+      "description": "Lo mismo pero precensial",
+      "publicationDate": "2024-02-12",
+      "location": "Medellin",
+      "experience": "2",
+      "modality": "In person",
+      "salary": "10000",
+      "companyId": "79d7"
+    },
+    {
+      "id": "3646",
+      "title": "Arquitecto",
+      "description": "Econtrar cosas",
+      "publicationDate": "2024-02-17",
+      "location": "Medellin",
+      "experience": "8",
+      "modality": "Remote",
+      "salary": "180000000",
+      "companyId": "8b24"
+    }
+  ]
+}
